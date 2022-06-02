@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolayKostadinov&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayKostadinov&layout=compact&exclude_repo=WebDocumentumFrontendUI,ASP.Net-MVC5,Mathematics,PasswordChanger,TelerikAcademy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolayKostadinov&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayKostadinov&layout=compact&count_private=true&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 ### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=NikolayKostadinov)](https://github.com/ryo-ma/github-profile-trophy)
